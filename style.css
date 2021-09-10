@@ -1,0 +1,87 @@
+body{
+
+    background-image:url("bwc_cover.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    color: #fff;
+    text-align: center;
+}
+.button a{
+    text-decoration: none;
+}
+.button{
+    color: #fff;
+    background: #000000;
+}
+.button a{
+    color: #fff;
+}
+.button a:hover{
+    color: orangered;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+}
+img{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+.email{
+ color: #fff;
+}
+.form1{
+    position: absolute;
+    right: 10%;
+}
+.form2{
+    position: absolute;
+    right: 10%;
+    top: 37%;
+}
+.log{
+    color: #fff;
+    background: #000000;
+    position: absolute;
+    right: 9%;
+    top: 50%;
+}
+.log:hover{
+    color: orangered;
+}
+.pass{
+    color: #fff;
+}
+.frm{
+    background: orangered;
+    margin-left: 78%;
+}
+.frm2{
+    background: orangered;
+    margin-left: 78%;
+    padding-left: 10.8%;
+}
+#signup{
+    text-decoration: none;
+    color: #000000;
+}
+.sign{
+    position: absolute;
+    left: 83%;
+    top: 62%;
+}
+.forgot{
+    text-decoration: none;
+    color: #000000;
+}
+.fp{
+    position: absolute;
+    left: 82%;
+    top: 56%;
+}
